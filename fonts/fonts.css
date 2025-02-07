@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Swagger TTF';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Swagger TTF'), url('SDSwaggerTTF.woff');
+}
+
+/* @font-face {
+    font-family: 'Swagger TTF';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Swagger TTF'), url('SDSwaggerTTFBold.woff');
+}
+
+@font-face {
+    font-family: 'Swagger TTF';
+    font-weight: 300;
+    font-style: normal;
+    src: local('Swagger TTF'), url('SDSwaggerTTFLight.woff');
+} */
